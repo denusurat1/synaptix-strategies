@@ -42,7 +42,7 @@ const AboutUs: React.FC = () => {
             </div>
             <div className="h-500 bg-gray-200 rounded-lg">
             <img 
-                src="../public/image2.png" 
+                src="/image2.png" 
                 alt="Life Science Illustration" 
               />
             </div>
