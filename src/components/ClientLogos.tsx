@@ -1,11 +1,11 @@
 import React from 'react'
 
 const logos = [
-  { src: '../public/takeda-logo.svg', alt: 'Takeda' },
-  { src: '../public/roche-logo.svg', alt: 'Roche' },
-  { src: '../public/bms-logo.svg', alt: 'Bristol Myers Squibb' },
-  { src: '../public/nhs-logo.svg', alt: 'Nestle Health Science' },
-  { src: '../public/pacira-logo.svg', alt: 'Pacira' }
+  { src: '/takeda-logo.svg', alt: 'Takeda' },
+  { src: '/roche-logo.svg', alt: 'Roche' },
+  { src: '/bms-logo.svg', alt: 'Bristol Myers Squibb' },
+  { src: '/nhs-logo.svg', alt: 'Nestle Health Science' },
+  { src: '/pacira-logo.svg', alt: 'Pacira' }
 ]
 
 const ClientLogos = () => {

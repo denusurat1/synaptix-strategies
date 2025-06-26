@@ -70,7 +70,7 @@ const HeroSection = () => {
           <div className="relative">
             <div className="relative z-10 bg-white rounded-xl shadow-sm p-4 transform hover:scale-105 transition-transform duration-200">
               <img 
-                src="../public/image.png" 
+                src="/image.png" 
                 alt="Life Science Illustration" 
                 className="rounded-lg object-cover w-full h-auto"
               />

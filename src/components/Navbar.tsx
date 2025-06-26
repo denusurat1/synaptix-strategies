@@ -12,7 +12,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <Link to="/" className="flex items-center">
-              <img src="../public/logo1.png" alt="Logo" className="w-12 h-12" />
+              <img src="/logo1.png" alt="Logo" className="w-12 h-12" />
               <span className="ml-2 text-lg font-semibold text-gray-900">Synaptix Strategies</span>
             </Link>
           </div>
