@@ -20,16 +20,16 @@ const Navbar = () => {
 
           {/* Desktop Navigation + CTA */}
           <div className="hidden md:flex md:items-center space-x-6">
-            <Link to="/services" className="text-sm font-medium text-gray-600 hover:text-primary-600 transition-colors duration-200">
+            <Link to="/services" className="text-md font-medium text-gray-600 hover:text-primary-600 hover:font-bold transition-colors duration-200">
               Services
             </Link>
-            <Link to="/about" className="text-sm font-medium text-gray-600 hover:text-primary-600 transition-colors duration-200">
+            <Link to="/about" className="text-md font-medium text-gray-600 hover:text-primary-600 hover:font-bold transition-colors duration-200">
               About
             </Link>
-            <Link to="/blog" className="text-sm font-medium text-gray-600 hover:text-primary-600 transition-colors duration-200">
+            <Link to="/blog" className="text-md font-medium text-gray-600 hover:text-primary-600 hover:font-bold transition-colors duration-200">
               Blog
             </Link>
-            <Link to="/#testimonials" className="text-sm font-medium text-gray-600 hover:text-primary-600 transition-colors duration-200">
+            <Link to="/#testimonials" className="text-md font-medium text-gray-600 hover:text-primary-600 hover:font-bold transition-colors duration-200">
               Testimonials
             </Link>
             <div className="flex items-center space-x-3">
