@@ -4,7 +4,7 @@ const logos = [
   { src: '/takeda-logo.svg', alt: 'Takeda' },
   { src: '/roche-logo.svg', alt: 'Roche' },
   { src: '/bms-logo.svg', alt: 'Bristol Myers Squibb' },
-  { src: '/nhs-logo.svg', alt: 'Nestle Health Science' },
+  { src: '/NHS-logo.svg', alt: 'Nestle Health Science' },
   { src: '/pacira-logo.svg', alt: 'Pacira' }
 ]
 
